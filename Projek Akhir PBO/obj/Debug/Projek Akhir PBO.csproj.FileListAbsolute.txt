@@ -1,0 +1,11 @@
+D:\Kuliah\PBO\Csharp\Projek Akhir PBO\Projek Akhir PBO\bin\Debug\Projek Akhir PBO.exe.config
+D:\Kuliah\PBO\Csharp\Projek Akhir PBO\Projek Akhir PBO\bin\Debug\Projek Akhir PBO.exe
+D:\Kuliah\PBO\Csharp\Projek Akhir PBO\Projek Akhir PBO\bin\Debug\Projek Akhir PBO.pdb
+D:\Kuliah\PBO\Csharp\Projek Akhir PBO\Projek Akhir PBO\obj\Debug\Projek Akhir PBO.csproj.AssemblyReference.cache
+D:\Kuliah\PBO\Csharp\Projek Akhir PBO\Projek Akhir PBO\obj\Debug\Projek Akhir PBO.csproj.SuggestedBindingRedirects.cache
+D:\Kuliah\PBO\Csharp\Projek Akhir PBO\Projek Akhir PBO\obj\Debug\Projek_Akhir_PBO.Form1.resources
+D:\Kuliah\PBO\Csharp\Projek Akhir PBO\Projek Akhir PBO\obj\Debug\Projek_Akhir_PBO.Properties.Resources.resources
+D:\Kuliah\PBO\Csharp\Projek Akhir PBO\Projek Akhir PBO\obj\Debug\Projek Akhir PBO.csproj.GenerateResource.cache
+D:\Kuliah\PBO\Csharp\Projek Akhir PBO\Projek Akhir PBO\obj\Debug\Projek Akhir PBO.csproj.CoreCompileInputs.cache
+D:\Kuliah\PBO\Csharp\Projek Akhir PBO\Projek Akhir PBO\obj\Debug\Projek Akhir PBO.exe
+D:\Kuliah\PBO\Csharp\Projek Akhir PBO\Projek Akhir PBO\obj\Debug\Projek Akhir PBO.pdb
