@@ -9,3 +9,4 @@ D:\Kuliah\PBO\Csharp\Projek Akhir PBO\Projek Akhir PBO\obj\Debug\Projek Akhir PB
 D:\Kuliah\PBO\Csharp\Projek Akhir PBO\Projek Akhir PBO\obj\Debug\Projek Akhir PBO.csproj.CoreCompileInputs.cache
 D:\Kuliah\PBO\Csharp\Projek Akhir PBO\Projek Akhir PBO\obj\Debug\Projek Akhir PBO.exe
 D:\Kuliah\PBO\Csharp\Projek Akhir PBO\Projek Akhir PBO\obj\Debug\Projek Akhir PBO.pdb
+D:\Kuliah\PBO\Csharp\Projek Akhir PBO\Projek Akhir PBO\obj\Debug\Projek_Akhir_PBO.Home.resources
