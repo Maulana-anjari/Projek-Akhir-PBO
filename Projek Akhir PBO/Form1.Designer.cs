@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.buttonClose = new System.Windows.Forms.Button();
+            this.loginBtn = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // buttonClose
@@ -44,11 +45,21 @@
             this.buttonClose.UseVisualStyleBackColor = true;
             this.buttonClose.Click += new System.EventHandler(this.buttonClose_Click);
             // 
+            // loginBtn
+            // 
+            this.loginBtn.Location = new System.Drawing.Point(181, 334);
+            this.loginBtn.Name = "loginBtn";
+            this.loginBtn.Size = new System.Drawing.Size(75, 23);
+            this.loginBtn.TabIndex = 1;
+            this.loginBtn.Text = "Login";
+            this.loginBtn.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(444, 439);
+            this.Controls.Add(this.loginBtn);
             this.Controls.Add(this.buttonClose);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";
@@ -61,6 +72,7 @@
         #endregion
 
         private System.Windows.Forms.Button buttonClose;
+        private System.Windows.Forms.Button loginBtn;
     }
 }
 
